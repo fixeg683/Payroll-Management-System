@@ -1,7 +1,7 @@
 <header class="main-header">
 	<a href="<?php echo BASE_URL; ?>" class="logo">
 		<span class="logo-mini"><b>P</b>M S</span>
-		<span class="logo-lg"><b>Payroll</b> M S</span>
+		<span class="logo-lg">Payroll Management System</span>
 	</a>
 	<nav class="navbar navbar-static-top" role="navigation">
 		<a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">

@@ -9,7 +9,7 @@ if ( !isset($_SESSION['Admin_ID']) || $_SESSION['Login_Type'] != 'admin' ) {
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-
+    <link href="images/payroll.jpg" rel="icon">
 	<title>Attendance - Payroll</title>
 
 	<link rel="stylesheet" href="<?php echo BASE_URL; ?>bootstrap/css/bootstrap.min.css">
@@ -74,7 +74,7 @@ if ( !isset($_SESSION['Admin_ID']) || $_SESSION['Login_Type'] != 'admin' ) {
 		</div>
 
 		<footer class="main-footer">
-			<strong> &copy; <?php echo date("Y");?> Payroll Management System | </strong> Developed By Surajit Pramanik
+			<strong> &copy; <?php echo date("Y");?> Payroll Management System | </strong> Developed by Lucy Odhiambo
 		</footer>
 	</div>
 
